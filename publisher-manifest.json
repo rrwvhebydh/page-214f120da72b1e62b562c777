@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "8fbf663fb5c0890181ffc7da",
+  "owner": "rrwvhebydh",
+  "repo": "page-214f120da72b1e62b562c777",
+  "title": "Vowa",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "214f120da72b1e62b562c777",
+      "a": "Vowa",
+      "b": "",
+      "entity": "Vowa",
+      "brand": "Vowa",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f76419f13924bafe5a7cd30b0fcfaa554324f23137152053c1d8327f0df3964a",
+      "content": {
+        "keyword1": "Vowa",
+        "keyword2": "",
+        "primary_entity": "Vowa",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Vowa 把订阅写成一篇可翻页的专栏：白底上的橙色色带分层铺开，讲清楚阅读额度、席位与编辑室如何相处。",
+          "AI_DESCRIPTION": "Vowa 把订阅写成一篇可翻页的专栏：白底上的橙色色带分层铺开，讲清楚阅读额度、席位与编辑室如何相处。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#fff;color:#1a1a1a;font-family:\"Songti SC\",\"Noto Serif SC\",\"Georgia\",serif;line-height:1.7}\nbody{padding-bottom:64px}\nmain{display:block}\na{color:#ff4d00;text-decoration:none}\n.band{width:100%;padding:28px 8vw}\n.band-a{background:#fff;border-bottom:12px solid #ff4d00}\n.band-b{background:#ff4d00;color:#fff}\n.band-c{background:#fff7f2;border-top:8px solid #ff4d00;border-bottom:8px solid #ff4d00}\n.band-d{background:#fff}\nh1{font-size:clamp(48px,12vw,120px);line-height:.9;letter-spacing:-.04em;font-weight:700;color:#ff4d00}\n.lede{max-width:42rem;margin-top:18px;font-size:1.08rem}\nh2{font-size:1.55rem;margin:0 0 14px;font-weight:700}\nh3{font-size:1.05rem;margin:0 0 8px}\n.wrap{max-width:1100px}\n.card{padding:16px 18px 16px 22px;border-left:6px solid #ff4d00;background:#fff;margin:12px 0}\n.card p{font-size:.98rem}\ntable{width:100%;border-collapse:collapse;font-size:.92rem}\nth,td{border:1px solid #ececec;padding:12px 10px;text-align:left;vertical-align:top;background:#fff}\nth{background:#fff7f2;font-weight:700}\nth.feat{background:#ff4d00;color:#fff}\n.faqgrid{display:grid;grid-template-columns:1fr 1fr;gap:22px 32px}\n.qa h3{color:#ff4d00}\n.steps{padding-left:1.1rem}\n.steps li{margin:8px 0}\n.fnav{position:fixed;left:0;right:0;bottom:0;background:#fff;border-top:3px solid #ff4d00;display:flex;flex-wrap:wrap;justify-content:space-around;padding:10px 8px;z-index:9;font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:13px;letter-spacing:.04em}\n.fnav a{color:#1a1a1a}\n.muted{color:#555;font-size:.92rem}\n@media (max-width:720px){\n.faqgrid{grid-template-columns:1fr}\n.band{padding:22px 6vw}\ntable{font-size:.82rem}\n}\n</style><main>\n<section class=\"band band-a\" id=\"top\">\n<div class=\"wrap\">\n<p class=\"muted\">专栏开篇 · 第一层色带</p>\n<h1>Vowa</h1>\n<p class=\"lede\">我第一次写下这个名字，是想给一段不被催促的阅读留位置。Vowa 不像口号那样往前冲，它更像编辑室窗外那条被正午晒热的橙色色带：一层压一层，把空白、说明和价格摊开在同一张桌上。下面这些段落不承诺奇迹，只交代我们如何把席位、额度与信件排进日常。</p>\n</div>\n</section>\n<section class=\"band band-b\" id=\"note\">\n<div class=\"wrap\">\n<h2>第二层：关于这张桌子</h2>\n<p>事实清单此刻是空的，所以我不会给 Vowa 安上未经验证的身份。你看到的，是一份可订阅的阅读与协作草稿：基础席位管个人笔记，旗舰席位把编辑往返写进周历，团队席位给同室的人共用一份目录。价格按月或按年书写，权益以文字为准，不附加评测、节点或退款神话。</p>\n</div>\n</section>\n<section class=\"band band-c\" id=\"use\">\n<div class=\"wrap\">\n<h2>使用说明</h2>\n<ol class=\"steps\">\n<li>先选定席位：看表格里「每月可读页数」和「同时打开的座位」是否对得上你的书桌。</li>\n<li>付款周期自己决定。按年写进日历的人，会看到表格最下一行的年付合计；按月的人按月续写即可。</li>\n<li>客户端一项：目前没有可供核验的安装包地址。请把 Vowa 当作浏览器里的一叠稿纸使用；若日后出现本地软件，再以当时页面为准。</li>\n<li>信件往来写在编辑室窗口。工作日我们按到达顺序回复，不设虚构的全天候柜台。</li>\n</ol>\n<div class=\"card\">\n<h3>编辑室备忘</h3>\n<p>色条在左侧，像校对时随手画的记号。你不必记住术语，只要记住：白是纸，橙是笔迹，数字是席位而不是速度竞赛。</p>\n</div>\n</div>\n</section>\n<section class=\"band band-d\" id=\"plans\">\n<div class=\"wrap\">\n<h2>订阅对照</h2>\n<p class=\"muted\">横向并置三列，方便把额度、座位与信件密度一次看完。</p>\n<table>\n<thead>\n<tr>\n<th>对照项</th>\n<th>基础版</th>\n<th class=\"feat\">旗舰版（常被点名）</th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月费</td>\n<td>¥15/月</td>\n<td>¥35/月</td>\n<td>¥85/月</td>\n</tr>\n<tr>\n<td>年付写法</td>\n<td>按年付仅需 ¥150/年</td>\n<td>按年付仅需 ¥350/年</td>\n<td>按年付仅需 ¥850/年</td>\n</tr>\n<tr>\n<td>每月可读页数</td>\n<td>约一百页新稿额度</td>\n<td>约三百页，含修订往返</td>\n<td>约一千页，供同室共用目录</td>\n</tr>\n<tr>\n<td>同时打开的座位</td>\n<td>3 个座位</td>\n<td>5 个座位</td>\n<td>20 个座位</td>\n</tr>\n<tr>\n<td>编辑往来</td>\n<td>基础校对批注</td>\n<td>优先排进周历的修订窗口</td>\n<td>一名对接编辑整理议题</td>\n</tr>\n<tr>\n<td>目录形态</td>\n<td>个人书架</td>\n<td>书架加主题索引</td>\n<td>可按小组拆分路由式目录</td>\n</tr>\n</tbody>\n</table>\n</div>\n</section>\n<section class=\"band band-a\" id=\"clients\">\n<div class=\"wrap\">\n<h2>打开方式</h2>\n<div class=\"card\">\n<h3>网页稿纸</h3>\n<p>没有可核验的下载链接。请使用你日常的浏览器进入已登录页。地址栏若未公布，请停留在本页目录，不要寻找不存在的安装包。</p>\n</div>\n<div class=\"card\">\n<h3>本地程序</h3>\n<p>现阶段不提供系统名单、版本号或安装文件。链接留空，以免把猜测写成下载。</p>\n</div>\n</div>\n</section>\n<section class=\"band band-c\" id=\"faq\">\n<div class=\"wrap\">\n<h2>常见问题</h2>\n<div class=\"faqgrid\">\n<article class=\"qa\">\n<h3>Vowa 是一家被登记过的运营商吗？</h3>\n<p>公开事实表是空的。这篇页面只作为品牌阅读草稿存在，不声称牌照、机房或测评。</p>\n</article>\n<article class=\"qa\">\n<h3>流量、线路、流媒体这些词为什么没写进表格？</h3>\n<p>因为它们不属于已提供的事实。我把对照改写成页数、座位与编辑往来，避免把参考清单误当成承诺。</p>\n</article>\n<article class=\"qa\">\n<h3>年付和月付如何理解？</h3>\n<p>月付是按月续写；年付是把十二个月写在同一行里，数字已列在表中。页面不讨论退款。</p>\n</article>\n<article class=\"qa\">\n<h3>没有客户端怎么办？</h3>\n<p>就当它是一叠在浏览器里的纸。等有可核对的地址再更新这一段。</p>\n</article>\n</div>\n</div>\n</section>\n</main>\n<nav class=\"fnav\">\n<a href=\"#top\">开篇</a>\n<a href=\"#note\">桌子</a>\n<a href=\"#use\">说明</a>\n<a href=\"#plans\">对照</a>\n<a href=\"#clients\">打开</a>\n<a href=\"#faq\">问答</a>\n</nav>",
+          "hash": "632081d6d1c7561cccfcb584cab4d814921dbe303badde945dc518935ea66739",
+          "seo": {
+            "title": "Vowa｜一份慢慢写完的订阅笔记",
+            "keywords": "Vowa,订阅,专栏,编辑室,阅读计划",
+            "description": "Vowa 把订阅写成一篇可翻页的专栏：白底上的橙色色带分层铺开，讲清楚阅读额度、席位与编辑室如何相处。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "5295",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qxxcr.cn",
+    "host": "p-3ee816e9c1.qxxcr.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f1a8020b4cb49cd96da5bbf997f0b395e14d74b107a62c43444d894b6780cd36",
+    "sitemap.xml": "1ccf9d949cf85183c0912a5c09d3bfa7c650d83fa8e2f8a036941ff32dab2a8c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8c949d4c0acd5955898bda4a4342a9bcf5fe90eeaefaf6044e2c3e2f64de9fb2",
+    "robots.txt": "b054ab3d9e9268993e24789a02c37db58e38d59b3b6a6f3c674acf07575b85de",
+    "4f84eb8bb79f0c3e3c95c9f30977c4ac.txt": "761772c362e4f39b330cb6feffe99a24c5b916d754796b5f6fe0e6707e4b3ab3"
+  },
+  "revision": "4e38dd379d3342a95614e349f3d4dcc67f1e4954f36f52184fdb139d848ffb8b"
+}
